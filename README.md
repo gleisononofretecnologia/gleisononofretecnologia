@@ -1,11 +1,11 @@
 # Gleison Aparecido Onofre
 
 
-## **Especialista em Redes e Conectividade | Soluções de TI e Suporte**
+## **Especialista em Redes e Conectividade | Soluções de TI e Suporte | Mainframe | Cibersegurança**
 
 
 ## :man_technologist:  Sobre Mim
-Com 40 anos de experiência, sou um técnico apaixonado por tecnologia, com expertise na implementação e manutenção de redes e sistemas de telecomunicações. Forneço soluções eficientes e confiáveis, garantindo a disponibilidade e o alto desempenho dos sistemas de comunicação para empresas de pequeno e médio porte.
+Com 40 anos de experiência, sou apaixonado por tecnologia, com expertise na implementação e manutenção de redes e sistemas de telecomunicações. Forneço soluções eficientes e confiáveis, garantindo a disponibilidade e o alto desempenho dos sistemas de comunicação para empresas de pequeno e médio porte.
 
 ## :hammer_and_wrench: Principais Habilidades
 Redes & Infraestrutura: Conhecimento avançado em redes de computadores (TCP/IP, DNS, DHCP), LAN, WAN, Wi-Fi.
